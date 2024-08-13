@@ -49,7 +49,7 @@ The Caesar Cipher Tool allows users to:
 1. Run the application:
 
     ```bash
-    python PRODIGY_CS_01.py
+    python Ceaser_Cipher.py
     ```
 
 2. The GUI will open. Enter the text you want to process and specify the shift value.
@@ -75,3 +75,6 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 - Special thanks to the Prodigy Infotech team for the opportunity to work on this project during my internship.
 
+## Contact
+
+For any questions or issues, please contact [ojoomoniyidamilola@gmail.com](http://www.linkedin.com/in/ojo-omoniyi-samuel).
